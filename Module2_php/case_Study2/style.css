@@ -1,0 +1,83 @@
+/* *{
+    
+} */
+/* html{
+    color: #fff;
+} */
+.menu fieldset{
+    width:70px;
+    height:10px;
+    margin-top: -5px;
+}
+.menu .bag{
+    padding-left: 17px;
+    margin-top:10px;
+}
+.menu .bag .bi{
+    margin-top: -8px;
+    margin-left: -10px ;
+}
+.menu p {
+    display: inline-block; 
+}
+.menu .bag p{
+    margin-top: -8px;
+   
+}
+.menu {
+    display: block;
+    display:inline-block;
+    display:flex;
+    background:black;
+    padding:0 5px 5px 105px;
+    height: 40px;
+}
+.box,select{
+    display:inline-block;
+    display: block;
+    
+}
+.menu a{
+    color: #fff;
+}
+.menu .tgdd p{
+ color: #ffd400;
+}
+.box{
+    padding:15px ;
+    margin-left: 10px;
+}
+.menu .promotion{
+    margin-top: -15px;
+    margin-left:25px;
+}
+.menu .news{
+    margin-left:220px;
+    display:flex;
+}
+.menu .news a{
+    margin-left:45px;
+    text-align: center;
+}
+.menu .oder{
+    display:flex;
+}
+.history, .tech{
+    margin-top: -12px;
+}
+.menu .promotion select{
+    margin-top:-12px;
+    color: #ffd400;
+    background:black;
+    border:none;
+    margin-left: 20px;
+}
+.menu .box input{
+    height:27px;
+    width: 200px;
+    border-radius: 6px;
+    margin-top:-10px;
+}
+.header .menu:hover a {
+    color: #ffd400;
+}
